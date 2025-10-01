@@ -1,0 +1,6 @@
+C:\Users\ALEXANDER\Desktop\SEM-7-Tarea-Pilas-Colas\MiBiblioteca\bin\Debug\MiBiblioteca.dll
+C:\Users\ALEXANDER\Desktop\SEM-7-Tarea-Pilas-Colas\MiBiblioteca\bin\Debug\MiBiblioteca.pdb
+C:\Users\ALEXANDER\Desktop\SEM-7-Tarea-Pilas-Colas\MiBiblioteca\obj\Debug\MiBiblioteca.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\Desktop\SEM-7-Tarea-Pilas-Colas\MiBiblioteca\obj\Debug\MiBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\Desktop\SEM-7-Tarea-Pilas-Colas\MiBiblioteca\obj\Debug\MiBiblioteca.dll
+C:\Users\ALEXANDER\Desktop\SEM-7-Tarea-Pilas-Colas\MiBiblioteca\obj\Debug\MiBiblioteca.pdb

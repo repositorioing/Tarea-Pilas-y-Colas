@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALEXANDER\\Desktop\\SEM-7-Tarea-Pilas-Colas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37139A22-4A9C-4982-B62E-38375C12EDCC}|MiBiblioteca\\MiBiblioteca.csproj|c:\\users\\alexander\\desktop\\sem-7-tarea-pilas-colas\\mibiblioteca\\listaenlazadasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37139A22-4A9C-4982-B62E-38375C12EDCC}|MiBiblioteca\\MiBiblioteca.csproj|solutionrelative:mibiblioteca\\listaenlazadasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9268900-E60C-45C8-90E4-96530707A578}|Ejecucion\\Ejecucion.csproj|c:\\users\\alexander\\desktop\\sem-7-tarea-pilas-colas\\ejecucion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9268900-E60C-45C8-90E4-96530707A578}|Ejecucion\\Ejecucion.csproj|solutionrelative:ejecucion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37139A22-4A9C-4982-B62E-38375C12EDCC}|MiBiblioteca\\MiBiblioteca.csproj|c:\\users\\alexander\\desktop\\sem-7-tarea-pilas-colas\\mibiblioteca\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37139A22-4A9C-4982-B62E-38375C12EDCC}|MiBiblioteca\\MiBiblioteca.csproj|solutionrelative:mibiblioteca\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37139A22-4A9C-4982-B62E-38375C12EDCC}|MiBiblioteca\\MiBiblioteca.csproj|c:\\users\\alexander\\desktop\\sem-7-tarea-pilas-colas\\mibiblioteca\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37139A22-4A9C-4982-B62E-38375C12EDCC}|MiBiblioteca\\MiBiblioteca.csproj|solutionrelative:mibiblioteca\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37139A22-4A9C-4982-B62E-38375C12EDCC}|MiBiblioteca\\MiBiblioteca.csproj|c:\\users\\alexander\\desktop\\sem-7-tarea-pilas-colas\\mibiblioteca\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37139A22-4A9C-4982-B62E-38375C12EDCC}|MiBiblioteca\\MiBiblioteca.csproj|solutionrelative:mibiblioteca\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaEnlazadaSimple.cs",
+              "DocumentMoniker": "C:\\Users\\ALEXANDER\\Desktop\\SEM-7-Tarea-Pilas-Colas\\MiBiblioteca\\ListaEnlazadaSimple.cs",
+              "RelativeDocumentMoniker": "MiBiblioteca\\ListaEnlazadaSimple.cs",
+              "ToolTip": "C:\\Users\\ALEXANDER\\Desktop\\SEM-7-Tarea-Pilas-Colas\\MiBiblioteca\\ListaEnlazadaSimple.cs",
+              "RelativeToolTip": "MiBiblioteca\\ListaEnlazadaSimple.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T01:15:56.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cola.cs",
+              "DocumentMoniker": "C:\\Users\\ALEXANDER\\Desktop\\SEM-7-Tarea-Pilas-Colas\\MiBiblioteca\\Cola.cs",
+              "RelativeDocumentMoniker": "MiBiblioteca\\Cola.cs",
+              "ToolTip": "C:\\Users\\ALEXANDER\\Desktop\\SEM-7-Tarea-Pilas-Colas\\MiBiblioteca\\Cola.cs",
+              "RelativeToolTip": "MiBiblioteca\\Cola.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T01:12:42.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pila.cs",
+              "DocumentMoniker": "C:\\Users\\ALEXANDER\\Desktop\\SEM-7-Tarea-Pilas-Colas\\MiBiblioteca\\Pila.cs",
+              "RelativeDocumentMoniker": "MiBiblioteca\\Pila.cs",
+              "ToolTip": "C:\\Users\\ALEXANDER\\Desktop\\SEM-7-Tarea-Pilas-Colas\\MiBiblioteca\\Pila.cs",
+              "RelativeToolTip": "MiBiblioteca\\Pila.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T01:07:16.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\ALEXANDER\\Desktop\\SEM-7-Tarea-Pilas-Colas\\MiBiblioteca\\Nodo.cs",
+              "RelativeDocumentMoniker": "MiBiblioteca\\Nodo.cs",
+              "ToolTip": "C:\\Users\\ALEXANDER\\Desktop\\SEM-7-Tarea-Pilas-Colas\\MiBiblioteca\\Nodo.cs",
+              "RelativeToolTip": "MiBiblioteca\\Nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T00:57:04.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ALEXANDER\\Desktop\\SEM-7-Tarea-Pilas-Colas\\Ejecucion\\Program.cs",
+              "RelativeDocumentMoniker": "Ejecucion\\Program.cs",
+              "ToolTip": "C:\\Users\\ALEXANDER\\Desktop\\SEM-7-Tarea-Pilas-Colas\\Ejecucion\\Program.cs",
+              "RelativeToolTip": "Ejecucion\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T00:56:26.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
