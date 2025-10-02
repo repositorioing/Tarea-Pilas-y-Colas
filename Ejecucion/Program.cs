@@ -1,10 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.Diagnostics.Eventing.Reader;
 using System.Linq;
+using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
-using MiBiblioteca;
+//using MiBiblioteca;
+using BibliotecaColaBanco;
 
 namespace Ejecucion
 {
@@ -12,62 +15,55 @@ namespace Ejecucion
     {
         static void Main(string[] args)
         {
-            ListaEnlazadaSimple salidaPalabraPila= new ListaEnlazadaSimple();
-            ListaEnlazadaSimple salidaPalabraCola = new ListaEnlazadaSimple();
+            Cola colaBanco1 = new Cola();
+            Cola colaBanco2 = new Cola();
+            //Cliente cliente = new Cliente();
 
-            Cola cola = new Cola();
-            Pila pila = new Pila();
+            //Console.WriteLine("Ingrese la cantidad de clientes. ");
+            //int cantidad = int.Parse(Console.ReadLine());
+
+            //for (int i = 1; i <= cantidad; i++)
+            //{
+            //    Console.WriteLine($"Ingrese el nombre del cliente: {i} ");
+            //    string nombre = Console.ReadLine();
+            //    Console.WriteLine($"Ingrese el tiempo de atencion del cliente: {i}");
+            //    float tiempoAtencion = float.Parse(Console.ReadLine());
+            //    Console.Clear();
+
+            //    colaBanco.Encolar(new Cliente(nombre, tiempoAtencion));
+            //}
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.WriteLine("Cola 1");
+            colaBanco1.Encolar(new Cliente("juan", 20));
+            colaBanco1.Encolar(new Cliente("alex", 10));
+            colaBanco1.Encolar(new Cliente("mario", 35));
+            colaBanco1.Encolar(new Cliente("juana", 100));
+            colaBanco1.Encolar(new Cliente("pedro", 25));
+
+            colaBanco1.MostrarClientesTiempos();
+
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("Cola 2");
+            colaBanco2.Encolar(new Cliente("Maria", 18));
+            colaBanco2.Encolar(new Cliente("Isabel", 8));
+            colaBanco2.Encolar(new Cliente("Grabiel", 45));
+            colaBanco2.Encolar(new Cliente("Andy", 60));
+            colaBanco2.Encolar(new Cliente("Patricia", 35));
+
+            colaBanco2.MostrarClientesTiempos();
 
 
-            Console.WriteLine("Ingresa la palabra para verificar si es palindroma. ");
-            string palabra = Console.ReadLine();
-
-            foreach (char c in palabra)
+            Console.ForegroundColor = ConsoleColor.Green;
+            if (colaBanco1.TiempoTotal() > colaBanco2.TiempoTotal())
             {
-                if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
-                {
-                    pila.Apilar(c);
-                    cola.Encolar(c);
-                }
-            }
-            while (pila.cima != null)
-            {
-                char letraPila = pila.Desapilar();
-                salidaPalabraPila.InsertarDatos(letraPila);
-            }
-            while (cola.frente != null)
-            {
-                char letraCola = cola.Desencolar();
-                salidaPalabraCola.InsertarDatos(letraCola);
-            }
-
-            Console.WriteLine($"La palabra ingresada es: {palabra} y vamos a verificar con la estructura PILA si es una palabra palindroma. ");
-            string resultado1 = salidaPalabraPila.MostrarDatos();
-
-            if (resultado1 == palabra)
-            {
-                salidaPalabraPila.MostrarDatos();
-                Console.WriteLine("Es palíndroma.");
-            }
-            else
-            {
-                Console.WriteLine("No es palíndroma.");
-            }
-
-
-            Console.WriteLine($"La palabra ingresada es: {palabra} y vamos a verificar con la estructura COLA si es una palabra palindroma. ");
-            string resultado2 = salidaPalabraCola.MostrarDatos();
-
-            if (resultado2 == palabra)
-            {
-                salidaPalabraCola.MostrarDatos();
-                Console.WriteLine("Es palíndroma.");  
+                Console.WriteLine("Cola 1 tiene mas tiempo de atencion. ");
             }
             else
             {
-                Console.WriteLine("No es palíndroma.");
+                Console.WriteLine("Cola 2 tiene mas tiempo de atencion. ");
             }
-            
+            Console.ForegroundColor = ConsoleColor.White;
+
         }
     }
 }

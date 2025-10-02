@@ -1,11 +1,11 @@
 C:\Users\ALEXANDER\Desktop\SEM-7-Tarea-Pilas-Colas\Ejecucion\bin\Debug\Ejecucion.exe.config
 C:\Users\ALEXANDER\Desktop\SEM-7-Tarea-Pilas-Colas\Ejecucion\bin\Debug\Ejecucion.exe
 C:\Users\ALEXANDER\Desktop\SEM-7-Tarea-Pilas-Colas\Ejecucion\bin\Debug\Ejecucion.pdb
-C:\Users\ALEXANDER\Desktop\SEM-7-Tarea-Pilas-Colas\Ejecucion\bin\Debug\MiBiblioteca.dll
-C:\Users\ALEXANDER\Desktop\SEM-7-Tarea-Pilas-Colas\Ejecucion\bin\Debug\MiBiblioteca.pdb
 C:\Users\ALEXANDER\Desktop\SEM-7-Tarea-Pilas-Colas\Ejecucion\obj\Debug\Ejecucion.csproj.AssemblyReference.cache
 C:\Users\ALEXANDER\Desktop\SEM-7-Tarea-Pilas-Colas\Ejecucion\obj\Debug\Ejecucion.csproj.CoreCompileInputs.cache
 C:\Users\ALEXANDER\Desktop\SEM-7-Tarea-Pilas-Colas\Ejecucion\obj\Debug\Ejecucion.csproj.Up2Date
 C:\Users\ALEXANDER\Desktop\SEM-7-Tarea-Pilas-Colas\Ejecucion\obj\Debug\Ejecucion.exe
 C:\Users\ALEXANDER\Desktop\SEM-7-Tarea-Pilas-Colas\Ejecucion\obj\Debug\Ejecucion.pdb
 C:\Users\ALEXANDER\Desktop\SEM-7-Tarea-Pilas-Colas\Ejecucion\obj\Debug\Ejecucion.exe.config
+C:\Users\ALEXANDER\Desktop\SEM-7-Tarea-Pilas-Colas\Ejecucion\bin\Debug\BibliotecaColaBanco.dll
+C:\Users\ALEXANDER\Desktop\SEM-7-Tarea-Pilas-Colas\Ejecucion\bin\Debug\BibliotecaColaBanco.pdb
